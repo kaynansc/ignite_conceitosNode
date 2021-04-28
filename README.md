@@ -1,4 +1,4 @@
-# ignite_conceitosNode
+# Conceitos básicos do Node
 
 # 💻 Sobre o desafio
 
